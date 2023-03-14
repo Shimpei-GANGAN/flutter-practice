@@ -1,3 +1,7 @@
+/**
+ * Day2: Dartの基礎2(関数・クラス), Hello world
+ * - ref: https://zenn.dev/fastriver/books/caff13da8b852c/viewer/a15f24
+ */
 void main() {
   print(sumCounter(end: 5));
   print(sumCounter2(start:1, end: 5));
